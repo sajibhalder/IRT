@@ -1,0 +1,51 @@
+,ID,Question,Answer,A,B,C,D,Marks,Type,Difficulty,Discrimination
+0,q1,"According to Robert Boyle, which of the following is not an acid’s property?",D,Turns blue Litmus red,Sour in taste ,Neutralize bases ,Bitter in taste,1,E,-0.371458441,0.340821624
+1,q2,A proton donor is a chemical that,A,Protongenic   ,Protophilic,Amphoteric,Amphiprotic,1,E,-0.269514799,0.317572594
+2,q3,Which of the following compounds can’t be used as an acid and a base at the same time?,D,Amphoteric substance ,Amphiprotic substance,Ampholyte,Protophilic,1,E,-0.24843207,0.329545319
+3,q4,Lewis concept does explain the behaviour of __________,C,Bases ,Salts ,Protonic acids ,Amphoteric substances,1,E,-0.23432681,0.339779139
+4,q5,Which of the following is a Lewis acid and which of the following is not a Lewis acid?,D,Aluminium chloride ,Sodium ion ,Sulphur tetrafluoride ,Hydroxide ion,1,E,-0.225637153,0.33879444
+5,q6,The PH of which of the following is more than 7?,C,Gastric juice   ,Vinegar,Blood plasma, Lemon juice,1,E,-0.205696866,0.331508279
+6,q7,What is the Neutralization process in reverse?,B,Formation   ,Hydrolysis,Reaction,Splitting,1,E,-0.181838885,0.337985277
+7,q8,Acid strength increases in the order of _____________,C,HI ≪ HCl ≪ HBr ≪ HF  ,HF ≪ HBr ≪ HCl ≪ HI,HF ≪ HCl ≪ HBr ≪ HI ,Hcl ≪ HF ≪ HBr ≪ HI,1,E,-0.16039218,0.344409257
+8,q9,Amphoteric molecules include which of the following?,D,Acetic acid ,Malic acid ,Sugars ,Water,1,E,-0.147516504,0.33169505
+9,q10,Which sort of acid is CH3OH?,A,Bronsted acid   ,Lewis acid,Arrhenius acid,Lewis and Arrhenius acid,1,E,-0.14606677,0.336068213
+10,q11,Hydrocarbons are organic molecules that contain the element carbon.,s,Hydrogen   ,Oxygen,Carbon,Both hydrogen and carbon,1,E,-0.120827615,0.318575412
+11,q12,Give the name of the benzene acylation procedure.,A,Friedel craft reaction   ,Wurtz reaction,Wurtz fitting reaction,Debey Huckel reaction,1,E,-0.111830488,0.343553752
+12,q13,Alkane chlorination is an example of _____,C,Radical  ,Elimination,Free radical ,Addition,1,E,-0.108073995,0.357042074
+13,q14,Which of the chemicals below does not have a carbonyl group?,A,Alcohol ,Aldehyde,Ketone,Carboxylic acid,1,E,-0.085240074,0.328498334
+14,q15,Butanal is known by what name?,A,N-Butanaldehyde ,α-Butanaldehyde ,N-Butyraldehyde,Α-Butyraldehyde,1,E,-0.078468286,0.357319415
+15,q16,Which one of the following salts does not con-tain water of crystallisation?,B,Blue vitriol  ,Baking soda ,Washing soda,Gypsum,1,E,-0.071973838,0.335922808
+16,q17,Magnification produced by a rear view mirror fitted in vehicles,B,Is less than one  , Is more than one,Is equal to one,Can be more than or less than one depending upon the position of the object in front of it.,1,E,-0.046411008,0.34755519
+17,q18,A full length image of a distant tall building can definitely be seen by using,B,A concave mirror   ,A convex mirror,A plane mirror, Both concave as well as plane mirror,1,E,-0.035438798,0.342452288
+18,q19,The laws of reflection hold good for,D,Plane mirror only   ,Concave mirror only,Convex mirror only,All mirrors irrespective of their shape,1,E,-0.03125263,0.351784974
+19,q20,Light travel fastest in,A,Water  ,Air,Glass,Diamond,1,E,-0.017431853,0.326228023
+20,q21,The mirror having reflecting surface curved inwards,D,Plane mirror  ,Convex mirror,Cylindrical mirror,Concave mirror,1,M,-0.009858184,0.339089841
+21,q22,The mirror used as rear-view mirror in vehicles,A,Convex mirror ,Plane mirror,Cylindrical mirror ,Concave mirror,1,M,-0.008776533,0.331138343
+22,q23,Convex lens is also known as,A,Converging lens   ,Diverging lens,Radial lens,Axial lens,2,M,0.022682156,0.342396677
+23,q24,The image which is formed behind the mirror,B,Real image  ,Virtual image,Blue image,Partial image,2,M,0.026684567,0.340038508
+24,q25,An ideal source of energy should have,D,Higher calorific value  ,Easy transportability,Easy accessibility,All of these,2,M,0.027033614,0.329941303
+25,q26,Fossile fuels are,A,Non-renewable source of energy   ,Renewable source of energy,Both (A) and (B),Neither (A) nor (B),2,M,0.027877225,0.350040823
+26,q27,Dead organisms are transformed into petroleum and natural gas in,B,Presence of air ,Absence of air ,Presence of sunlight, None of the above,2,M,0.036826089,0.348818958
+27,q28,Which of the following problem is associated with a burning of coal?,D,Carbon-dioxide emission ,Acid rain ,Ash with toxic metal supurity , All of these.,2,M,0.036874678,0.324726015
+28,q29,Which of the following organism produces biogas from cow drug sherry in the biogas plant?,B,Aerobic bectria  ,Anaerobic bectria ,Prolozoa,Fungi,2,M,0.042081594,0.337476432
+29,q30,Wind is caused due to,D,Uneven heating of earth’s surface  ,Rotation of earth,Local conditions ,All of these,2,M,0.043204885,0.337531954
+30,q31,The chlorophyll in photosynthesis is used for,A,Absorbing light   ,Breaking down water molecule,No function,Reduction of CO2,2,M,0.050424434,0.352395326
+31,q32,Proteins after digestion are converted into,C,Carbohydrates ,Small globules, Amino acids ,Starch,2,M,0.053654071,0.335178196
+32,q33,Carbohydrates in the plants are stored in the form of,B,Glycogen  ,Starch,Glucose,Maltose,2,M,0.060773391,0.334795415
+33,q34, Main site of photosynthesis,C,Leaf ,Stem, Chloroplast,Guard cells,2,M,0.07080546,0.343517572
+34,q35,The small pores present of leaf’s surface are called,A,Stomata  ,Chlorophyll,Guard cells,None of these,2,M,0.074360915,0.326244801
+35,q36, Photosynthesis is a,D,Catabolic process  ,Parabolic process,Amphibolic process,Photochemical lprocess,2,M,0.07723783,0.336817175
+36,q37,Opening and closing of pores is a function performed by,D,Stomata,Chlorophyll,Chloroplast ,Guard cells,2,M,0.086144529,0.337442756
+37,q38,Which element is used in the synthesis of proteins?,C,Hydrogen ,Oxygen,Nitrogen,Carbon dioxide,2,M,0.091654673,0.329407454
+38,q39,emporary finger like extensions on amoeba are called,C,Cell membrane  ,Cell wall,Pseudopodia, Cilia,2,M,0.096180722,0.343620807
+39,q40, Bile juice is secreted by,D,Stomach  ,Pancreas,Small intestine,Liver,2,M,0.114700258,0.367697656
+40,q41, Which of these juices is secreted by pancreas?,D,Trypsin,Pepsin, Bile juice ,Both I and II,4,D,0.128468141,0.333389252
+41,q42,Lipase acts on,B,Amino acids ,Fats,Carbohydrates,All of these,4,D,0.135219738,0.322584748
+42,q43,Respiratory pigment in human body is,D,Chlorophyll  ,Water,Blood,Haemoglobin,4,D,0.151368454,0.339762867
+43,q44, Blood consist of what fluid medium?,C,Lymph ,Platelets,Plasma,All of these,4,D,0.156572864,0.334727496
+44,q45,One cell-thick vessels are called,C,Arteries  ,Veins,Capillaries,Pulmonary artery,4,D,0.180808261,0.331092715
+45,q46,The process where characteristics are transmitted from parent to offsprings is called:,B,Variation  ,Heredity,Gene,Allele ,4,D,0.182701573,0.326153785
+46,q47,Which of the following is not controlled by genes?,D,Eye colour  ,Height,Hair colour,All of the above ,4,D,0.183102503,0.394511879
+47,q48,Which part of the DNA provides information for a protein?,D,Chromosome  ,Mitochondria,RNA,Gene ,4,D,0.191865936,0.329613835
+48,q49,Who proposed the theory of evolution?,A,Charles Darwin  ,Stanely Miller,Harold Urey,Aristotle,4,D,0.194927856,0.335675985
+49,q50,Which of the following statements is Incorrect?,D,Gene is a sequence of nucleotides ,"During the process of gene expression, DNA is first copied into RNA",Genes can acquire mutations in their sequence,Genes cannot acquire mutations in their sequence,4,D,0.271199703,0.333797425
